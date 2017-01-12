@@ -6,4 +6,5 @@ Here is a list of people that have helped with the development of this website i
 * Pieter-Jan Pauwels (Open Knowledge Belgium, Communication, Common sense)
 * Sander Meert (Open Knowledge Belgium, Development)
 * Thibault Verougstraete (Eskidoos, Design)
+* Niels Dewelde (Design AbsforGhent)
 * Thimo Thoeye (Open Knowledge Belgium, Development)
